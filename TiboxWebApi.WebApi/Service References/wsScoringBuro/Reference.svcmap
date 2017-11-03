@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="30cc2d8e-0f9e-4e57-8704-0b7940ebacde" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://10.19.150.224:24884/wsScoringBuro.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="wsScoringBuro3.xsd" MetadataType="Schema" ID="0111625a-ffaf-4d22-86b0-ff9341e559d7" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoringBuro.svc?xsd=xsd0" />
+    <MetadataFile FileName="wsScoringBuro31.xsd" MetadataType="Schema" ID="196a5561-c9b2-42e9-87d1-7ecaeffdc61f" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoringBuro.svc?xsd=xsd1" />
+    <MetadataFile FileName="wsScoringBuro1.wsdl" MetadataType="Wsdl" ID="f5267369-c671-447d-a1d5-bdab3b7d106b" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoringBuro.svc?wsdl" />
+    <MetadataFile FileName="wsScoringBuro32.xsd" MetadataType="Schema" ID="8dd21291-af17-466b-9d89-0b7bc9dffd75" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoringBuro.svc?xsd=xsd2" />
+    <MetadataFile FileName="wsScoringBuro1.disco" MetadataType="Disco" ID="a86f0b46-6c53-4e80-bc84-aa1712346ad9" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoringBuro.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

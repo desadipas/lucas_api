@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3ceeee56-4fa5-4c0d-a636-4b2cab7909ad" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://10.19.150.224:24884/wsScoringValidacionReglas.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="wsScoringValidacionReglas1.wsdl" MetadataType="Wsdl" ID="64909918-cc84-4741-bd71-f2614cf9d6a1" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoringValidacionReglas.svc?wsdl" />
+    <MetadataFile FileName="wsScoringValidacionReglas3.xsd" MetadataType="Schema" ID="b5279016-9782-465d-ac3d-b6829e8ded01" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoringValidacionReglas.svc?xsd=xsd0" />
+    <MetadataFile FileName="wsScoringValidacionReglas31.xsd" MetadataType="Schema" ID="65c073ee-4433-470b-9b8d-1ac8ce1720e8" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoringValidacionReglas.svc?xsd=xsd2" />
+    <MetadataFile FileName="wsScoringValidacionReglas1.disco" MetadataType="Disco" ID="cb10d9cd-86d0-4101-8d9c-2a207769ffc4" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoringValidacionReglas.svc?disco" />
+    <MetadataFile FileName="wsScoringValidacionReglas32.xsd" MetadataType="Schema" ID="f9580d1a-9257-47dd-8366-3050b3b3bbff" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoringValidacionReglas.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,24 @@
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01\TiboxWebApi.Models\bin\Release\TiboxWebApi.Models.dll
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01\TiboxWebApi.Models\bin\Release\TiboxWebApi.Models.pdb
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01\TiboxWebApi.Models\bin\Release\Dapper.Contrib.dll
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01\TiboxWebApi.Models\bin\Release\Dapper.dll
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01\TiboxWebApi.Models\bin\Release\Dapper.xml
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01\TiboxWebApi.Models\obj\Release\TiboxWebApi.Models.csprojResolveAssemblyReference.cache
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01\TiboxWebApi.Models\obj\Release\TiboxWebApi.Models.dll
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01\TiboxWebApi.Models\obj\Release\TiboxWebApi.Models.pdb
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01 - copia\TiboxWebApi.Models\bin\Release\TiboxWebApi.Models.dll
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01 - copia\TiboxWebApi.Models\bin\Release\TiboxWebApi.Models.pdb
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01 - copia\TiboxWebApi.Models\bin\Release\Dapper.Contrib.dll
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01 - copia\TiboxWebApi.Models\bin\Release\Dapper.dll
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01 - copia\TiboxWebApi.Models\bin\Release\Dapper.xml
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01 - copia\TiboxWebApi.Models\obj\Release\TiboxWebApi.Models.csprojResolveAssemblyReference.cache
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01 - copia\TiboxWebApi.Models\obj\Release\TiboxWebApi.Models.dll
+C:\Users\HROCA\Desktop\PROYECTOS\_WebApi\WA_01 - copia\TiboxWebApi.Models\obj\Release\TiboxWebApi.Models.pdb
+C:\tibox_mdipas\Requerimientos\PER\Req_appLucas\WebApi_lucas\WebApi_BK\WA_01 - copia\TiboxWebApi.Models\bin\Release\TiboxWebApi.Models.dll
+C:\tibox_mdipas\Requerimientos\PER\Req_appLucas\WebApi_lucas\WebApi_BK\WA_01 - copia\TiboxWebApi.Models\bin\Release\TiboxWebApi.Models.pdb
+C:\tibox_mdipas\Requerimientos\PER\Req_appLucas\WebApi_lucas\WebApi_BK\WA_01 - copia\TiboxWebApi.Models\bin\Release\Dapper.Contrib.dll
+C:\tibox_mdipas\Requerimientos\PER\Req_appLucas\WebApi_lucas\WebApi_BK\WA_01 - copia\TiboxWebApi.Models\bin\Release\Dapper.dll
+C:\tibox_mdipas\Requerimientos\PER\Req_appLucas\WebApi_lucas\WebApi_BK\WA_01 - copia\TiboxWebApi.Models\bin\Release\Dapper.xml
+C:\tibox_mdipas\Requerimientos\PER\Req_appLucas\WebApi_lucas\WebApi_BK\WA_01 - copia\TiboxWebApi.Models\obj\Release\TiboxWebApi.Models.csprojResolveAssemblyReference.cache
+C:\tibox_mdipas\Requerimientos\PER\Req_appLucas\WebApi_lucas\WebApi_BK\WA_01 - copia\TiboxWebApi.Models\obj\Release\TiboxWebApi.Models.dll
+C:\tibox_mdipas\Requerimientos\PER\Req_appLucas\WebApi_lucas\WebApi_BK\WA_01 - copia\TiboxWebApi.Models\obj\Release\TiboxWebApi.Models.pdb

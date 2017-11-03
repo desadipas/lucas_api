@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\-LucasWebApi</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Dapper.Contrib.dll">
+      <publishTime>09/04/2017 18:29:28</publishTime>
+    </File>
+    <File Include="bin/Dapper.dll">
+      <publishTime>09/04/2017 18:29:28</publishTime>
+    </File>
+    <File Include="bin/es/System.Net.Http.Formatting.resources.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Http.resources.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Http.WebHost.resources.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/FluentValidation.dll">
+      <publishTime>09/04/2017 18:29:28</publishTime>
+    </File>
+    <File Include="bin/LightInject.dll">
+      <publishTime>09/04/2017 18:29:28</publishTime>
+    </File>
+    <File Include="bin/LightInject.WebApi.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.WebApi.Extensions.Compression.Server.Owin.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Cors.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>09/04/2017 18:29:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.Common.dll">
+      <publishTime>02/20/2011 04:40:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WinForms.dll">
+      <publishTime>02/20/2011 04:40:08</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/04/2017 18:29:30</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>09/04/2017 18:29:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>09/04/2017 18:29:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>09/04/2017 18:29:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Extensions.Compression.Core.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Owin.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>09/04/2017 18:29:29</publishTime>
+    </File>
+    <File Include="bin/Thinktecture.IdentityModel.Owin.BasicAuthentication.dll">
+      <publishTime>09/04/2017 18:29:30</publishTime>
+    </File>
+    <File Include="bin/TiboxWebApi.Models.dll">
+      <publishTime>10/12/2017 19:16:16</publishTime>
+    </File>
+    <File Include="bin/TiboxWebApi.Repository.dll">
+      <publishTime>10/12/2017 19:16:16</publishTime>
+    </File>
+    <File Include="bin/TiboxWebApi.UnitOfWork.dll">
+      <publishTime>10/12/2017 19:16:16</publishTime>
+    </File>
+    <File Include="bin/TiboxWebApi.WebApi.dll">
+      <publishTime>10/12/2017 19:16:22</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/04/2017 18:29:30</publishTime>
+    </File>
+    <File Include="Service References/wsCPD/TiboxWebApi.WebApi.wsCPD.ELCPDMatrizResultado.datasource">
+      <publishTime>10/01/2017 17:05:17</publishTime>
+    </File>
+    <File Include="Service References/wsIngresoPredecido/TiboxWebApi.WebApi.wsIngresoPredecido.ELIngresoCliente.datasource">
+      <publishTime>10/01/2017 17:05:51</publishTime>
+    </File>
+    <File Include="Service References/wsIngresoPredecido/TiboxWebApi.WebApi.wsIngresoPredecido.ELIngresoPredecidoDemograficoResultado.datasource">
+      <publishTime>10/01/2017 17:05:51</publishTime>
+    </File>
+    <File Include="Service References/wsIngresoPredecido/TiboxWebApi.WebApi.wsIngresoPredecido.ELIngresoPredecidoRCCResultado.datasource">
+      <publishTime>10/01/2017 17:05:51</publishTime>
+    </File>
+    <File Include="Service References/wsIngresoPredecido/TiboxWebApi.WebApi.wsIngresoPredecido.ELIngresoPredecidoResultado.datasource">
+      <publishTime>10/01/2017 17:05:51</publishTime>
+    </File>
+    <File Include="Service References/wsPreAprobacion/TiboxWebApi.WebApi.wsPreAprobacion.ELPreAprobacionResultado.datasource">
+      <publishTime>10/01/2017 17:06:16</publishTime>
+    </File>
+    <File Include="Service References/wsScoreBuro/TiboxWebApi.WebApi.wsScoreBuro.ELScoreBuroResultado.datasource">
+      <publishTime>10/01/2017 17:07:41</publishTime>
+    </File>
+    <File Include="Service References/wsScoreComportamiento/TiboxWebApi.WebApi.wsScoreComportamiento.ELScoreComportamientoResultado.datasource">
+      <publishTime>10/01/2017 17:07:55</publishTime>
+    </File>
+    <File Include="Service References/wsScoreDemografico/TiboxWebApi.WebApi.wsScoreDemografico.ELScoreDemograficoResultado.datasource">
+      <publishTime>10/01/2017 17:08:08</publishTime>
+    </File>
+    <File Include="Service References/wsScoreLenddo/TiboxWebApi.WebApi.wsScoreLenddo.ELScoreLenddoResultado.datasource">
+      <publishTime>10/01/2017 17:08:20</publishTime>
+    </File>
+    <File Include="Service References/wsScoringBuro/TiboxWebApi.WebApi.wsScoringBuro.ELScoringBuroCuotaUtilizadaResultado.datasource">
+      <publishTime>10/01/2017 17:08:34</publishTime>
+    </File>
+    <File Include="Service References/wsScoringBuro/TiboxWebApi.WebApi.wsScoringBuro.ELScoringBuroResultado.datasource">
+      <publishTime>10/01/2017 17:08:34</publishTime>
+    </File>
+    <File Include="Service References/wsScoringDemografico/TiboxWebApi.WebApi.wsScoringDemografico.ELScoringDemograficoResultado.datasource">
+      <publishTime>10/01/2017 17:08:46</publishTime>
+    </File>
+    <File Include="Service References/wsScoringValidacionReglas/TiboxWebApi.WebApi.wsScoringValidacionReglas.ELClientePEPResultado.datasource">
+      <publishTime>10/01/2017 17:08:59</publishTime>
+    </File>
+    <File Include="Service References/wsScoringValidacionReglas/TiboxWebApi.WebApi.wsScoringValidacionReglas.ELScoringValidacionReglasResultado.datasource">
+      <publishTime>10/01/2017 17:08:59</publishTime>
+    </File>
+    <File Include="Service References/wsSms/TiboxWebApi.WebApi.wsSms.EnviarMensajeResponse.datasource">
+      <publishTime>09/04/2017 18:29:31</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/12/2017 19:16:23</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

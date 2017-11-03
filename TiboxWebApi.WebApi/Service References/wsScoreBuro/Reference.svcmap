@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d362a379-7db7-477c-ab2a-58ce7b6b18f6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://10.19.150.224:24884/wsScoreBuro.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="wsScoreBuro3.xsd" MetadataType="Schema" ID="9b4886ed-1ef8-48c4-9c1a-3267b3b50fb5" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoreBuro.svc?xsd=xsd0" />
+    <MetadataFile FileName="wsScoreBuro31.xsd" MetadataType="Schema" ID="24b61910-3365-44b6-bfff-81b32808855e" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoreBuro.svc?xsd=xsd1" />
+    <MetadataFile FileName="wsScoreBuro1.wsdl" MetadataType="Wsdl" ID="0fa8de04-e4f3-4397-b915-1b7fa487ca80" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoreBuro.svc?wsdl" />
+    <MetadataFile FileName="wsScoreBuro1.disco" MetadataType="Disco" ID="dc97280f-ae77-4ea8-af06-0ecd0d5b313a" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoreBuro.svc?disco" />
+    <MetadataFile FileName="wsScoreBuro32.xsd" MetadataType="Schema" ID="ba672d4a-471f-406b-a2c4-d57a3a5997ce" SourceId="1" SourceUrl="http://10.19.150.224:24884/wsScoreBuro.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
